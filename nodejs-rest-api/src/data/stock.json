@@ -1,0 +1,20 @@
+[
+  {
+    "code": "A002",
+    "size": "L",
+    "quantity": 150,
+    "price": 25
+  },
+  {
+    "code": "A003",
+    "size": "S",
+    "quantity": 10,
+    "price": 10
+  },
+  {
+    "code": "A003",
+    "size": "M",
+    "quantity": 100,
+    "price": 100
+  }
+]

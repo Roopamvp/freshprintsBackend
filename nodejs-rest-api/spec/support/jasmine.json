@@ -1,0 +1,14 @@
+{
+  "spec_dir": "src",
+  "spec_files": [
+    "**/*[sS]pec.ts"
+  ],
+  "helpers": [
+    "helpers/**/*.ts"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": true,
+  "requires": [
+    "ts-node/register"
+  ]
+}
